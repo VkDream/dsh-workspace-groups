@@ -1,0 +1,3 @@
+- insert:
+    - id: ws-groups
+      name: '@local/ws-groups'

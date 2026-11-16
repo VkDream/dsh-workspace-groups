@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "工作区分类",
+    "description": "用可折叠的自建分类整理侧栏工作区，像 Codex 那样按「个人项目 / 公司软件」分组。",
+    "detail": "docs/DETAIL.md"
+  }
+}
